@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="15102" started-at="2016-08-02T07:22:56Z" finished-at="2016-08-02T07:23:11Z">
+    <groups>
+      <group name="smoke">
+        <method signature="WebPageTest.playButton()[pri:0, instance:com.app.testcases.WebPageTest@7c2312fa]" name="playButton" class="com.app.testcases.WebPageTest"/>
+        <method signature="WebPageTest.playButton2()[pri:0, instance:com.app.testcases.WebPageTest@7c2312fa]" name="playButton2" class="com.app.testcases.WebPageTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Command line test" duration-ms="15102" started-at="2016-08-02T07:22:56Z" finished-at="2016-08-02T07:23:11Z">
+      <class name="com.app.testcases.WebPageTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.app.testcases.WebPageTest@7c2312fa]" name="init" is-config="true" duration-ms="7462" started-at="2016-08-02T02:22:56Z" finished-at="2016-08-02T02:23:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testInit()[pri:0, instance:com.app.testcases.WebPageTest@7c2312fa]" name="testInit" is-config="true" duration-ms="6176" started-at="2016-08-02T02:23:03Z" finished-at="2016-08-02T02:23:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInit -->
+        <test-method status="PASS" signature="playButton()[pri:0, instance:com.app.testcases.WebPageTest@7c2312fa]" name="playButton" duration-ms="34" started-at="2016-08-02T02:23:10Z" finished-at="2016-08-02T02:23:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playButton -->
+        <test-method status="PASS" signature="playButton2()[pri:0, instance:com.app.testcases.WebPageTest@7c2312fa]" name="playButton2" duration-ms="1" started-at="2016-08-02T02:23:10Z" finished-at="2016-08-02T02:23:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playButton2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.app.testcases.WebPageTest@7c2312fa]" name="tearDown" is-config="true" duration-ms="1375" started-at="2016-08-02T02:23:10Z" finished-at="2016-08-02T02:23:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="stopAll()[pri:0, instance:com.app.testcases.WebPageTest@7c2312fa]" name="stopAll" is-config="true" duration-ms="1004" started-at="2016-08-02T02:23:11Z" finished-at="2016-08-02T02:23:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopAll -->
+      </class> <!-- com.app.testcases.WebPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

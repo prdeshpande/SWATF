@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1470122576379" stop="1470122591548" version="1.4.16" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Command line suite : Command line test</name>
+    <title>Command line suite : Command line test</title>
+    <test-cases>
+        <test-case start="1470122590073" stop="1470122590081" status="passed">
+            <name>playButton</name>
+            <steps>
+                <step start="1470122589425" stop="1470122589427" status="passed">
+                    <name>initObjects</name>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="alienM14X"/>
+                <label name="thread" value="1656@alienM14X.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1470122590088" stop="1470122590088" status="passed">
+            <name>playButton2</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="alienM14X"/>
+                <label name="thread" value="1656@alienM14X.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

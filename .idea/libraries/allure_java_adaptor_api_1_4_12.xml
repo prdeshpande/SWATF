@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="allure-java-adaptor-api-1.4.12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/library/allure-java-adaptor-api-1.4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/allure-java-annotations-1.4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/allure-java-aspects-1.4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/allure-model-1.4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/allure-testng-adaptor-1.4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/commons-httpclient-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/commons-net-3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/selenium-java-2.53.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/selenium-server-standalone-2.53.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/slf4j-api-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/slf4j-simple-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/testng-6.9.9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/library/allure-java-annotations-1.3.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/allure-testng-adaptor-1.4.12-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/testng-6.9.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/library/allure-java-annotations-1.3.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/allure-testng-adaptor-1.4.12-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/testng-6.9.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
